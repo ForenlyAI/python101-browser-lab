@@ -8,11 +8,13 @@ Forenly AI Academy **Python 101** kursunun çalışma ortamı. Bilgisayarına hi
 
 Ya da bu sayfada: **Code → Codespaces → Create codespace on main**.
 
-Ortam açılınca solda `sales_report` klasörü görünür. Alttaki terminale yaz:
+Ortam açılınca solda `ilk-adim` klasörü görünür: 1. haftanın dosyalarını buraya yazarsın. Alttaki terminalde sürümü kontrol et:
 
 ```
-python report.py
+python --version
 ```
+
+`sales_report/` klasörü örnek bir projedir: `cd ../sales_report && python report.py`
 
 ## İşin bitince
 

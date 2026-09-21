@@ -1,7 +1,7 @@
 {
   "name": "Python 101",
   "image": "mcr.microsoft.com/devcontainers/python:3.14",
-  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}/sales_report",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}/ilk-adim",
   "customizations": {
     "vscode": {
       "extensions": ["ms-python.python", "ms-python.debugpy"]
