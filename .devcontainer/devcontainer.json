@@ -1,0 +1,10 @@
+{
+  "name": "Python 101",
+  "image": "mcr.microsoft.com/devcontainers/python:3.14",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}/sales_report",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-python.debugpy"]
+    }
+  }
+}

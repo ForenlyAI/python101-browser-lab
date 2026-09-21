@@ -1,0 +1,12 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Default Light Modern",
+  "workbench.tips.enabled": false,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "chat.disableAIFeatures": true,
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.fontSize": 15,
+  "python.terminal.activateEnvironment": false,
+  "files.exclude": { "**/.vscode": true, "**/__pycache__": true }
+}
